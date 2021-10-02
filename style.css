@@ -54,7 +54,8 @@ nav {letter-spacing:normal;
     display: block;
     margin-left: auto;
     margin-right: auto;
-}   
+}  
+#anchor h1 {text-align:center;}
  .test{
 width: 100%;
 text-align:  center;
