@@ -2,13 +2,13 @@ body { margin:0;
 	display:flex;
 	flex-direction:column;
 text-align:center;}
+header{background-color:#ff9911;}
 .header_first {
     width: 100%;
     height: 130px;
     padding: 0 0 0 0;
     max-width: 300px;
     margin: 0 auto 0 auto;
-    color: Green;
 }
 
 #logo {
@@ -133,5 +133,5 @@ footer {
 		}
 #task tablu{order:1;}
 #task forma{order:2;}
-#foot{colour: Green;}
+footer{background-color:#ff9911;}
 }
