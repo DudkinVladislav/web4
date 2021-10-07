@@ -8,6 +8,7 @@ text-align:center;}
     padding: 0 0 0 0;
     max-width: 300px;
     margin: 0 auto 0 auto;
+    color: Green;
 }
 
 #logo {
@@ -132,4 +133,5 @@ footer {
 		}
 #task tablu{order:1;}
 #task forma{order:2;}
+#foot{colour: Green;}
 }
